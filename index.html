@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+{% unless post.draft %}
+<article class="episode">
+    <h1>
+        <a href="{{ post.url }}" rel="bookmark" title="Permanent Link to {{ post.title }}">
+            {{ post.title }}
+        </a>
+    </h1>
+    <p class="shownotes">
+        {{ post.content }}
+    </p>
+    <p class="meta">
+        <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
+            {{ post.date | date_to_string }}
+        </time>
+         | 
+        <a href="{{ post.link }}" rel="bookmark" title="Ladda ner {{ post.title }}">
+            Ladda ner MP3
+        </a>
+    </p>
+</article>
+{% endunless %}
+{% endfor %}

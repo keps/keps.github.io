@@ -1,0 +1,39 @@
+---
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Kepskast</title>
+        <link>{{ site.url }}</link>
+        <language>sv</language>
+        <copyright>&#xA9; 2014 Keps</copyright>
+        <itunes:subtitle>kan vi klippa bort det sen</itunes:subtitle>
+        <itunes:author>Karl Jonsson, Pontus Granström, Petter Rylén</itunes:author>
+        <itunes:keywords>keps,musik,humor</itunes:keywords>
+        <itunes:summary>Vi kastar keps i glashus.</itunes:summary>
+        <description>A bit like the Today Show; but with more swearing. And no Thought for the Day.</description>
+        <itunes:owner>
+            <itunes:name>Pontus Granström</itunes:name>
+            <itunes:email>kepskollektivet@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://kepskast.github.io/assets/kepskast.png" />
+        <itunes:category text="Comedy" />
+        <itunes:new-feed-url>http://kepskast.github.io/podcast.xml</itunes:new-feed-url>
+        
+        {% for post in site.posts %}
+        <item>
+            <title>{{ post.title }}</title>
+            <itunes:author>Karl Jonsson, Pontus Granström, Petter Rylén</itunes:author>
+            <itunes:subtitle>From The Pub: {{ post.title }}</itunes:subtitle>
+            <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+            <itunes:image href="http://kepskast.github.io/assets/kepskast.png" />
+            <enclosure url="{{ post.mp3 }}" length="{{ post.length }}" type="audio/mpeg" />
+            <guid>{{ post.link }}</guid>
+            <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+            <itunes:duration>{{ post.duration }}</itunes:duration>
+            <itunes:keywords>keps,musik,humor</itunes:keywords>
+        </item>
+        {% endfor %}
+    </channel>
+</rss>

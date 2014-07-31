@@ -1,0 +1,19 @@
+<article class="episode">
+    <h1>
+        <a href="{{ page.url }}" rel="bookmark" title="Permanent Link to {{ page.title }}">
+            {{ page.title }}
+        </a>
+    </h1>
+    <p class="shownotes">
+        {{ page.content | markdownify }}
+    </p>
+    <p class="meta">
+        <time datetime="{{ page.date | date: "%Y-%m-%d" }}">
+            {{ page.date | date_to_string }}
+        </time>
+         | 
+        <a href="{{ page.link }}" rel="bookmark" title="Ladda ner {{ page.title }}">
+            Ladda ner MP3
+        </a>
+    </p>
+</article>

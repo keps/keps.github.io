@@ -1,0 +1,11 @@
+url: http://kepskast.github.io/
+
+permalink: /:title
+
+defaults:
+    -
+        scope:
+            path: ""
+            type: post
+        values:
+            layout: episode
