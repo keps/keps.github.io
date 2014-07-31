@@ -19,7 +19,7 @@ keywords: "keps,musik,humor"
             <itunes:name>Pontus Granström</itunes:name>
             <itunes:email>kepskollektivet@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="http://kepskast.github.io/assets/kepskast-square.png" />
+        <itunes:image href="{{ site.url }}/assets/kepskast-square.png" />
         <itunes:category text="Comedy" />
         <itunes:explicit>no</itunes:explicit>
         
@@ -29,7 +29,7 @@ keywords: "keps,musik,humor"
             <description>{{ post.content | xml_escape }}</description>
             <itunes:author>{{ page.author }}</itunes:author>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
-            <itunes:image href="http://kepskast.github.io/assets/kepskast-square.png" />
+            <itunes:image href="{{ site.url }}/assets/kepskast-square.png" />
             <enclosure url="{{ post.mp3 }}" length="{{ post.bytes }}" type="audio/mpeg" />
             <guid>{{ post.mp3 }}</guid>
             <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
