@@ -4,11 +4,11 @@ layout: default
 
 # Prenumerera
 
-Det går att prenumerera på Kepskast på flera olika sätt. 
+Det går att prenumerera på Kepskast på flera olika sätt:
 
 1. Det smidigaste är att använda en podcastapp på din smartfon. Vi har föreslagit några nedan till [iOS](#iOS) och [android](#android).
 2. Om du bara har en dum-pe-tre-spelare föreslår vi att du använder iTunes genom att [klicka här](#iTuneslänk).
-3. Om du tycker den här sidan är awesome och vill gå in här manuellt hela tiden: uh ... varsågod? (weirdo...)
+3. Om du tycker den här sidan är awesome (tack!) och vill gå in här manuellt hela tiden: uh ... varsågod?
 
 ## Appar
 
@@ -18,14 +18,11 @@ Här är vår _podcastström_: <{{ site.url }}/podcast.xml>. Kopiera den och kli
 {: #iOS}
 
 * Gratis
-  * [Overcast](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8):    
-    Enkel och vettig, vårt favoritgratisval. Tycker man om appen går det att låsa upp extra funktioner (värt enligt oss, men man klarar sig bra utan!)
-  * Apples [Podcasts](https://itunes.apple.com/en/app/podcasts/id525463029?mt=8): 
-    Har en massa funktioner och är gratis, men är trög och opålitlig.
+  * [Overcast](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8) är enkel och vettig, vårt favoritgratisval. Tycker man om appen går det att betala för att låsa upp extra funktioner (värt enligt oss, men man klarar sig bra utan!)
+  * Apples [Podcasts](https://itunes.apple.com/en/app/podcasts/id525463029?mt=8) har en massa funktioner och är gratis, men är trög och opålitlig.
 
 * Kostar pengar
-  * [Castro](https://itunes.apple.com/us/app/castro-high-fidelity-podcasts/id723142770?mt=8):
-    Snygg och enkel. Funkar bäst med ett litet antal podcasts, då den saknar organisatoriska funktioner.
+  * [Castro](https://itunes.apple.com/us/app/castro-high-fidelity-podcasts/id723142770?mt=8) är snygg och minimalistisk. Funkar bäst med ett litet antal podcasts, då den saknar organisatoriska funktioner.
 
 ### Android
 {: #android}
