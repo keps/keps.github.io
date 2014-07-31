@@ -31,7 +31,7 @@ keywords: "keps,musik,humor"
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
             <itunes:image href="{{ site.url }}/assets/kepskast-square.png" />
             <enclosure url="{{ post.mp3 }}" length="{{ post.bytes }}" type="audio/mpeg" />
-            <guid isPermaLink=false>{{ post.date }}</guid>
+            <guid isPermaLink="false">{{ post.date }}</guid>
             <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
             <itunes:duration>{{ post.duration }}</itunes:duration>
             <itunes:keywords>{{ page.keywords }}</itunes:keywords>
