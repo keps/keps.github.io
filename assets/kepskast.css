@@ -2,19 +2,18 @@ body {
     font-family: "Helvetica Neue", Helvetica, Futura, sans-serif;
     line-height: 1.5em;
     margin: 0 auto;
-    width: 600px;
+    width: 500px;
 }
 
-header {
-    text-align: center;
-}
-
-header a {
-    text-decoration: none;
+header h1 {
+    display: none;
 }
 
 h1 {
     font-family: Futura, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    line-height: 2em;
 }
 
 h1 a {
@@ -29,7 +28,10 @@ a:visited {
     color: black;
 }
 
-.small {
-    font-size: 0.5em;
+.meta {
+    text-align: center;
 }
 
+article {
+    margin-bottom: 30px;
+}
