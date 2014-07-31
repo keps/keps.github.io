@@ -7,6 +7,10 @@ body {
     line-height: 1.5em;
     margin: 0 auto;
     width: 500px;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    -o-font-smoothing: antialiased;
 }
 
 header h1 {
