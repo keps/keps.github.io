@@ -19,19 +19,19 @@
         </itunes:owner>
         <itunes:image href="http://kepskast.github.io/assets/kepskast.png" />
         <itunes:category text="Comedy" />
-        <itunes:new-feed-url>http://kepskast.github.io/podcast.xml</itunes:new-feed-url>
+        <itunes:explicit>no</itunes:explicit>
         
         {% for post in site.posts %}
         <item>
             <title>{{ post.title }}</title>
             <itunes:author>Karl Jonsson, Pontus Granström, Petter Rylén</itunes:author>
             <itunes:subtitle>From The Pub: {{ post.title }}</itunes:subtitle>
-            <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+            <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
             <itunes:image href="http://kepskast.github.io/assets/kepskast.png" />
-            <enclosure url="{{ post.mp3 }}" type="audio/mpeg" />
+            <enclosure url="{{ post.mp3 }}" length="{{ post.bytes }}" type="audio/mpeg" />
             <guid>{{ post.mp3 }}</guid>
             <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
-            <!-- <itunes:duration>{{ post.duration }}</itunes:duration> -->
+            <itunes:duration>{{ post.duration }}</itunes:duration>
             <itunes:keywords>keps,musik,humor</itunes:keywords>
         </item>
         {% endfor %}
