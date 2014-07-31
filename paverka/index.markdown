@@ -10,4 +10,4 @@ Tro det eller ej, men vi i Keps kan och vet inte alltid bäst (jag vet, det är 
 
 Så, kära lyssnare! Vi <strike>behöver</strike> vill ha er hjälp! Skicka in åsikter, rättelser, roliga historier, ankedoter, inte mjältbrand, frågor, förslag och **pengar** (snälla!!!) till:
 
-# <kepskollektivet@gmail.com>
+# <{{ site.email }}>

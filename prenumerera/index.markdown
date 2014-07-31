@@ -28,9 +28,9 @@ Här är vår _podcastström_: <{{ site.url }}/podcast.xml>. Kopiera den och kli
 {: #android}
 
 * Kostar pengar
-  * [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts) är den bästa podcastappen på Android (säger vi utan att ha testat).
+  * [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts) är utan tvivel den bästa podcastappen på Android (säger jag utan att ha testat).
   
 * Gratis
   * [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) verkar vara en vettig gratis podcastapp till Android (jag vet inte vad jag pratar om).
 
-(psst! om du är en lyssnare som använder Android, hör av dig till oss med tips – det behövs...)
+(psst! om du är en lyssnare som faktiskt använder Android ...  [hjälp!](mailto:{{ site.email }}?subject=Tips på bra podcastappar till Android))
