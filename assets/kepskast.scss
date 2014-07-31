@@ -41,18 +41,32 @@ a:visited {
 
 
 nav {
-    margin: 50px 0;
-    border-top: solid 1px black;
-    border-bottom: solid 1px black;
+    margin: 20px 0;
+    background-color: black;
+    ul {
+        padding: 0;
+        text-align: center;
+    }
     li {
         font-family: Futura, sans-serif;
         font-size: 25px;
         display: inline-block;
-        text-align: center;
         list-style-type: none;
-        padding: 0 20px;
-        a {
-            text-decoration: none;
+        padding: 40px 20px;
+    }
+    li a {
+        text-decoration: none;
+        color: white;
+        &:visited {
+            color: white;
+        }
+        &:hover {
+            position: relative;
+            top: -3px;
+        }
+        &:active {
+            position: relative;
+            top: 3px;
         }
     }
 }
