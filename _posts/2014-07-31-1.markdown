@@ -1,6 +1,6 @@
 ---
 title: '1: "kan vi klippa bort det sen"'
-mp3: https://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+1.mp3
+mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+1.mp3
 ---
 
 * [Nippel](http://sv.wikipedia.org/wiki/Nippel) (Engelska: [Nipple](http://en.wikipedia.org/wiki/Nipple_(plumbing)))
