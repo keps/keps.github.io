@@ -12,7 +12,7 @@ Det går att prenumerera på Kepskast på flera olika sätt:
 
 ## Appar
 
-Här är vår _podcastström_: <{{ site.url }}/podcast.xml>. Kopiera den och klistra in i den app du vill använda.
+Här är vår _podcastström_: <{{ site.url }}/podcast.xml>. Kopiera den och klistra in i den app du vill använda. Om du har tur går det rentav att söka efter oss!
 
 ### iOS (iPhone)
 {: #iOS}
