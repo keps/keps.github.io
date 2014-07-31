@@ -15,10 +15,10 @@ layout: default
     </p>
     <p class="meta">
         <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
-            {{ post.date | date_to_string }}
+            {{ post.date | date: "%Y-%m-%d" }}
         </time>
          | 
-        <a href="{{ post.link }}" rel="bookmark" title="Ladda ner {{ post.title }}">
+        <a href="{{ post.mp3 }}" rel="bookmark" title="Ladda ner {{ post.title }}">
             Ladda ner MP3
         </a>
     </p>

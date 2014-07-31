@@ -11,10 +11,10 @@
     </p>
     <p class="meta">
         <time datetime="{{ page.date | date: "%Y-%m-%d" }}">
-            {{ page.date | date_to_string }}
+            {{ page.date | date: "%Y-%m-%d" }}
         </time>
          | 
-        <a href="{{ page.link }}" rel="bookmark" title="Ladda ner {{ page.title }}">
+        <a href="{{ page.mp3 }}" rel="bookmark" title="Ladda ner {{ page.title }}">
             Ladda ner MP3
         </a>
     </p>

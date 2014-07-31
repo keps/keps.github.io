@@ -1,4 +1,6 @@
 ---
+author: "Karl Jonsson, Pontus Granström, Petter Rylén"
+keywords: "keps,musik,humor"
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -9,10 +11,10 @@
         <language>sv</language>
         <copyright>&#xA9; 2014 Keps</copyright>
         <itunes:subtitle>kan vi klippa bort det sen</itunes:subtitle>
-        <itunes:author>Karl Jonsson, Pontus Granström, Petter Rylén</itunes:author>
-        <itunes:keywords>keps,musik,humor</itunes:keywords>
-        <itunes:summary>Vi kastar keps i glashus.</itunes:summary>
-        <description>Keps kastar kepsar katastrofalt klantigt.</description>
+        <itunes:author>{{ page.author }}</itunes:author>
+        <itunes:keywords>{{ page.keywords }}</itunes:keywords>
+        <itunes:summary>Keps kastar i glashus.</itunes:summary>
+        <description>De tre medlemmarna i Keps talar med auktoritet om saker de inte vet någonting om.</description>
         <itunes:owner>
             <itunes:name>Pontus Granström</itunes:name>
             <itunes:email>kepskollektivet@gmail.com</itunes:email>
@@ -25,14 +27,14 @@
         <item>
             <title>{{ post.title }}</title>
             <description>{{ content }}</description>
-            <itunes:author>Karl Jonsson, Pontus Granström, Petter Rylén</itunes:author>
+            <itunes:author>{{ page.author }}</itunes:author>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
             <itunes:image href="http://kepskast.github.io/assets/kepskast.png" />
             <enclosure url="{{ post.mp3 }}" length="{{ post.bytes }}" type="audio/mpeg" />
             <guid>{{ post.mp3 }}</guid>
             <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
             <itunes:duration>{{ post.duration }}</itunes:duration>
-            <itunes:keywords>keps,musik,humor</itunes:keywords>
+            <itunes:keywords>{{ page.keywords }}</itunes:keywords>
         </item>
         {% endfor %}
     </channel>
