@@ -12,6 +12,12 @@ header h1 {
     display: none;
 }
 
+@media (max-width: 500px) {
+    header {
+        overflow: hidden;
+    }
+}
+
 h1 {
     font-family: Futura, sans-serif;
     font-size: 25px;
