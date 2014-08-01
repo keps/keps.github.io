@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Påverka
+permalink: påverka/
 ---
 
 # {{ page.title }}

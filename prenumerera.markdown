@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Prenumerera
+permalink: prenumerera/
 ---
 
 # {{ page.title }}
