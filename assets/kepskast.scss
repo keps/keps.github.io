@@ -3,7 +3,7 @@
 
 body {
     font-family: "Helvetica Neue", Helvetica, Futura, sans-serif;
-    font-size: 15px;
+    font-size: 17px;
     line-height: 1.5em;
     margin: 0 auto;
     width: 500px;
@@ -43,6 +43,10 @@ a:visited {
     color: black;
 }
 
+ul {
+    padding-left: 20px;
+}
+
 
 nav {
     margin: 20px 0;
@@ -57,24 +61,26 @@ nav {
         display: inline-block;
         list-style-type: none;
         padding: 40px 20px;
+        position: relative;
+        &:active {
+            top: 3px;
+        }
     }
-    li a {
+    a {
         text-decoration: none;
         color: white;
         &:visited {
             color: white;
         }
-        &:hover {
-            position: relative;
-            top: -3px;
-        }
-        &:active {
-            position: relative;
-            top: 3px;
-        }
     }
 }
-    
+.no-touch nav li:hover {
+    top: -3px;
+}
+
+#content {
+    padding: 0 20px;
+}
 
 article {
     margin-bottom: 50px;
