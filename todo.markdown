@@ -1,7 +1,7 @@
 ---
 ---
 
-* More obvious RSS and iTunes links
+* Keps falling down in footer
 * Audio player on website
 * Custom domain
 * Register podcast on iTunes

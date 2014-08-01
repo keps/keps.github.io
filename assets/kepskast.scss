@@ -96,8 +96,12 @@ nav {
 
 article {
     margin-bottom: 50px;
+    .meta {
+        text-align: center;
+    }
 }
 
-.meta {
-    text-align: center;
+footer {
+    background-color: black;
+    height: 100px;
 }
