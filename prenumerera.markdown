@@ -6,18 +6,23 @@ permalink: prenumerera/
 
 # {{ page.title }}
 
+## För veteranen
+
+[RSS]({{ site.url }}/podcast.xml), [iTunes]({{ site.iTunes_url }}). Så, gå och lyssna nu.
+
+## För dig som är ny till podcasts
+
 Det går att prenumerera på Kepskast på flera olika sätt:
 
-1. Det smidigaste är att använda en podcastapp på din smartfon. Vi har föreslagit några nedan till [iOS](#iOS) och [android](#android).
-2. Om du bara har en dum-pe-tre-spelare föreslår vi att du använder iTunes genom att [klicka här](#iTuneslänk).
+1. Det smidigaste är att använda en podcastapp på din smartfon. Vi har föreslagit några nedan.
+2. Om du bara har en dum-pe-tre-spelare föreslår vi att du använder iTunes genom att [klicka här]({{ site.iTunes_url }}).
 3. Om du tycker den här sidan är awesome (tack!) och vill gå in här manuellt hela tiden: uh ... varsågod?
 
 ## Appar
 
-Här är vår _podcastström_: <{{ site.url }}/podcast.xml>. Kopiera den och klistra in i den app du vill använda. Om du har tur går det rentav att söka efter oss!
+För att lägga till Kepskast i din podcastapp, pröva först att söka i appen. Om det inte går: kopiera adressen <{{ site.url }}/podcast.xml> och klistra in i appen. 
 
 ### iOS (iPhone)
-{: #iOS}
 
 * Gratis
   * [Overcast](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8) är enkel och vettig, vårt favoritgratisval. Tycker man om appen går det att betala för att låsa upp extra funktioner (värt enligt oss, men man klarar sig bra utan!)
@@ -27,7 +32,6 @@ Här är vår _podcastström_: <{{ site.url }}/podcast.xml>. Kopiera den och kli
   * [Castro](https://itunes.apple.com/us/app/castro-high-fidelity-podcasts/id723142770?mt=8) är snygg och minimalistisk. Funkar bäst med ett litet antal podcasts, då den saknar organisatoriska funktioner.
 
 ### Android
-{: #android}
 
 * Kostar pengar
   * [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts) är utan tvivel den bästa podcastappen på Android (säger jag utan att ha testat).
