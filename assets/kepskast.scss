@@ -74,9 +74,6 @@ nav {
         list-style-type: none;
         padding: 40px 20px;
         position: relative;
-        &:active {
-            top: 3px;
-        }
     }
     a {
         text-decoration: none;
@@ -86,9 +83,14 @@ nav {
         }
     }
 }
-.no-touch nav li:hover {
-    top: -3px;
-}
+.no-touch nav li{
+    &:hover {
+        top: -3px;
+    }
+    &:active {
+        top: 3px;
+    }
+} 
 
 #content {
     padding: 0 20px;
