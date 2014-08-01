@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Prenumerera
 ---
 
-# Prenumerera
+# {{ page.title }}
 
 Det går att prenumerera på Kepskast på flera olika sätt:
 
