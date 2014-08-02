@@ -26,7 +26,7 @@ keywords: "keps,musik,humor"
         {% for post in site.posts %}
         <item>
             <title>{{ post.title }}</title>
-            <description><![CDATA[{{ post.content }}]]</description>
+            <description><![CDATA[{{ post.content }}]]></description>
             <itunes:author>{{ page.author }}</itunes:author>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
             <itunes:image href="{{ site.url }}/assets/kepskast-square.png" />
