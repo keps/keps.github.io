@@ -7,7 +7,7 @@ keywords: "keps,musik,humor"
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>Kepskast</title>
-        <link>{{ site.url }}</link>
+        <link>{{ site.url }}/kepskast</link>
         <language>sv</language>
         <copyright>&#xA9; 2014 Keps</copyright>
         <itunes:subtitle>kan vi klippa bort det sen</itunes:subtitle>
