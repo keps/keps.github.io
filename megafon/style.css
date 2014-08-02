@@ -1,0 +1,264 @@
+/* 
+CSS Reset
+v1.0 | 20080212 
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* My CSS */
+
+body {
+	background: url("images/bg.png") top center no-repeat #111;
+	font: 14px/1.4 "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #222;
+}
+
+p {
+	margin: 0;
+}
+
+#spotlight {
+	width: 400px;
+	margin: 150px auto;
+	-webkit-perspective: 1000;
+}
+
+#album {
+	width: 400px;
+	height: 400px;
+	-webkit-box-shadow: -2px 2px 4px #222;
+	-moz-box-shadow: -2px 2px 4px #222;
+	box-shadow: -2px 2px 4px #222;
+	margin-bottom: 10px;
+	position: relative;	
+	-webkit-transform-style: preserve-3d;
+	-webkit-transition: 0.5s;
+}
+
+.flipped {
+	-webkit-transform: rotateY(-180deg);
+}
+
+.face {
+	position: absolute;
+	width: 400px;
+	height: 400px;
+	background: #fff;
+
+	-webkit-backface-visibility: hidden;
+}
+
+.back {
+	display: none;
+}
+
+.csstransforms3d .back {
+	-webkit-transform: rotateY(180deg);
+	
+}
+
+.album-link {
+	position: absolute;
+	right: 12px;
+	bottom: 12px;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	padding: 0 6px;
+}
+
+#listen-link {
+	background: #fff;
+}
+
+#listen-text {
+	display: inline-block;
+	width: 1px;
+	overflow: hidden;
+	margin: 3px -5px 1px 0;
+	opacity: 0;
+	vertical-align: bottom;
+	
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+}
+
+#listen:hover #listen-text {
+	width: 42px;
+	opacity: 1.0;
+}
+
+#likebutton {
+	position: absolute;
+	bottom: 10px;
+	left: 12px;
+}
+
+#back-link {
+	background: #555;
+	color: #eee;
+	padding: 2px 6px 1px;
+}
+
+#megafon {
+	width: 400px;
+	height: 400px;
+}
+
+.download-button {
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	width: 170px;
+	height: 50px;
+	padding: 10px 5px 0 5px;
+	float: left;
+	margin-left: 15px;
+	box-shadow: 0 1px 3px #000;
+	-webkit-box-shadow: 0 1px 3px #000;
+	-moz-box-shadow: 0 1px 3px #000;
+	text-align: center;
+	line-height: 1.2;
+}
+
+.download-button:active {
+	position: relative;
+	top: 2px;
+}
+
+.download-button .small {
+	margin-right: 5px;
+}
+
+.download-button .large {
+	font-size: 1.4em;
+}
+
+#explicit {
+	position: relative;
+}
+
+#explicit-button {
+	background-color: #333;
+	color: #ddd;
+}
+
+#explicit-popup {
+	display: none;
+	position: absolute;
+	top: 65px;
+	left: -5px;
+	width: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 7px #000;
+	-moz-box-shadow: 0 1px 3px #000;
+	box-shadow: 0 1px 3px #000;
+	background: #d22;
+	color: #fff;
+	opacity: 0;
+	
+	-webkit-transition: opacity 0.3s ease-out;
+}
+
+#explicit:hover #explicit-popup {
+	opacity: 1;
+}
+
+#censored {
+	background-color: #ddd;
+	color: #333s;
+}
+
+#text {
+	width: 600px;
+	margin: 0 auto 2em;
+	color: #884;
+}
+
+#text p {
+	text-align: center;
+}
+
+#jplayer {
+	display: none;
+}
+
+#player {
+	background: #000;
+	color: #fff;
+}
+
+#player li {
+	padding: 2px 5px 2px 23px;
+	border-bottom: white 1px solid;
+	display: block;
+}
+
+#player a {
+	color: #fff;
+}
+
+#player .selected li {
+	background: #fff url(images/play.png) no-repeat 4px 3px;
+}
+
+#player a.selected.playing li {
+	background-image: url(images/pause.png);
+}
+
+#player a.selected {
+	color: #000;
+}
