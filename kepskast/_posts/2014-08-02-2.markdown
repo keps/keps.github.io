@@ -24,7 +24,7 @@ summary: "Pontus och Petter förklarar Facebook, diskuterar partnerskap, löser 
 * VR ([Virtual Reality](http://en.wikipedia.org/wiki/Virtual_reality))
     * [Oculus](http://www.oculusvr.com/) (ägs av Facebook)
     * [Presentation om VR](https://www.youtube.com/watch?v=G-2dQoeqVVo) för den som är nyfiken
-* Coca Colas [_fantastiska_ reklam](https://www.youtube.com/watch?v=zlA9tXYxD8g)
+* Coca Colas [_fantastiska_ reklam](https://www.youtube.com/watch?v=zlA9tXYxD8g) (tack Joakim!)
 * Keps letar nytt domännamn (webbadress)
     * [Nya toppnivådomäner](https://iwantmyname.com/domains/new-gtld-domain-extensions)
     * [keps.cool](http://keps.cool)
