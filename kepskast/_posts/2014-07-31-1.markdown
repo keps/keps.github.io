@@ -4,7 +4,7 @@ mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+1.mp3
 bytes: 41271714
 duration: "57:19"
 guid: "A09B5396-3E7C-4F20-8CAB-8CB2642797BA"
-summary: "Första avsnittet av Kepskast!"
+summary: 'Våra hjältar uppfinner "the nipple nipple", styrketränar, utövar narcissism, sörjer Burr, lyssnar, är nakna, botar sjukdomar och går ut med soporna.'
 ---
 
 * [Nippel](http://sv.wikipedia.org/wiki/Nippel) (Engelska: [Nipple](http://en.wikipedia.org/wiki/Nipple_(plumbing)))
