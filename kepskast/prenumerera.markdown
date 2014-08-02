@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: kepskast
 title: Prenumerera
-permalink: prenumerera/
+permalink: kepskast/prenumerera/
 ---
 
 # {{ page.title }}

@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: kepskast
 title: Påverka
-permalink: påverka/
+permalink: kepskast/påverka/
 ---
 
 # {{ page.title }}

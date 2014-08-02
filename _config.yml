@@ -1,9 +1,9 @@
-url: http://kepskast.github.io
-email: kepskollektivet@gmail.com
-podcast_feed: http://kepskast.github.io/podcast.xml
+url: http://keps.cool
+email: kepskast@keps.cool
+podcast_feed: http://keps.cool/kepskast/podcast.xml
 iTunes_url: "#iTunes"
 
-permalink: /:title
+permalink: /:categories/:title
 
 defaults:
     -
