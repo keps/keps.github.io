@@ -67,6 +67,8 @@ nav {
         display: inline-block;
         list-style-type: none;
         padding: 40px 20px;
+    }
+    li span {
         position: relative;
     }
     a {
@@ -77,11 +79,11 @@ nav {
         }
     }
 }
-.no-touch nav li{
-    &:hover {
+.no-touch nav li {
+    &:hover span {
         top: -3px;
     }
-    &:active {
+    &:active span {
         top: 3px;
     }
 } 
