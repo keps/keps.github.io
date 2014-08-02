@@ -1,0 +1,29 @@
+---
+title: '2: keps.cool'
+mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+2.mp3
+bytes: 37143322
+duration: "51:35"
+guid: "5ABB9F8C-B392-4F24-A1CD-4BDB4DB79229"
+summary: "Pontus och Petter förklarar Facebook, diskuterar partnerskap, löser världsproblemen, uppfinner AR, älskar reklam och hittar ett nytt domännamn."
+---
+
+* [Google+](http://plus.google.com) suger
+* Petters farmor har skaffat [Facebook](https://www.facebook.com/)!  
+    (bevare henne väl ...)
+* Gifta sig av praktiska skäl
+    * [Äktenskapsbalken](https://lagen.nu/1987:230), för den som vill hjälpa Petter få rätsida på saker
+    * [Migrationsverket](http://www.migrationsverket.se/Privatpersoner/Flytta-till-nagon-i-Sverige.html)
+* [Svengelska](http://sv.wikipedia.org/wiki/Svengelska)
+* Lokalt styre
+    * Världsfred genom I-landsproblem
+* Petter uppfinner AR ([Augmented Reality](http://en.wikipedia.org/wiki/Augmented_reality))
+    * [Google Glass](http://www.google.com/glass)
+    * [Instagram](http://instagram.com) (ägs av Facebook)
+    * [RjDj](http://rjdj.me/) – "Sonic experience"
+* VR ([Virtual Reality](http://en.wikipedia.org/wiki/Virtual_reality))
+    * [Oculus](http://www.oculusvr.com/) (ägs av Facebook)
+    * [Presentation om VR](https://www.youtube.com/watch?v=G-2dQoeqVVo) för den som är nyfiken
+* Coca Colas [_fantastiska_ reklam](https://www.youtube.com/watch?v=zlA9tXYxD8g)
+* Keps letar nytt domännamn (webbadress)
+    * [Nya toppnivådomäner](https://iwantmyname.com/domains/new-gtld-domain-extensions)
+    * <http://keps.cool>
