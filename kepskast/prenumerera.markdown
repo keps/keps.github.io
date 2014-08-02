@@ -8,14 +8,14 @@ permalink: kepskast/prenumerera/
 
 ## För veteranen
 
-[RSS]({{ site.podcast_feed_url }}), [iTunes]({{ site.iTunes_url }}). Så, gå och lyssna nu.
+[RSS]({{ site.podcast_feed_url }}), [iTunes]({{ site.iTunes_url }}) (funkar inte än!). Så, gå och lyssna nu.
 
 ## För dig som är ny till podcasts
 
 Det går att prenumerera på Kepskast på flera olika sätt:
 
 1. Det smidigaste är att använda en podcastapp på din smartfon. Vi har föreslagit några nedan.
-2. Om du bara har en dum-pe-tre-spelare föreslår vi att du använder iTunes genom att [klicka här]({{ site.iTunes_url }}).
+2. Om du bara har en dum-pe-tre-spelare föreslår vi att du använder iTunes genom att [klicka här]({{ site.iTunes_url }}) (funkar inte än!).
 3. Om du tycker den här sidan är awesome (tack!) och vill gå in här manuellt hela tiden: uh ... varsågod?
 
 ## Appar
