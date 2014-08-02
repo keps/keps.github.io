@@ -8,7 +8,7 @@ permalink: kepskast/prenumerera/
 
 ## För veteranen
 
-[RSS]({{ site.podcast_feed }}), [iTunes]({{ site.iTunes_url }}). Så, gå och lyssna nu.
+[RSS]({{ site.podcast_feed_url }}), [iTunes]({{ site.iTunes_url }}). Så, gå och lyssna nu.
 
 ## För dig som är ny till podcasts
 
@@ -20,7 +20,7 @@ Det går att prenumerera på Kepskast på flera olika sätt:
 
 ## Appar
 
-För att lägga till Kepskast i din podcastapp, pröva först att söka i appen. Om det inte går: kopiera adressen <{{ site.podcast_feed }}> och klistra in i appen. 
+För att lägga till Kepskast i din podcastapp, pröva först att söka i appen. Om det inte går: kopiera adressen <{{ site.podcast_feed_url }}> och klistra in i appen. 
 
 ### iOS (iPhone)
 

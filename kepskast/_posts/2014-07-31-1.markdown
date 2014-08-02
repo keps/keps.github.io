@@ -5,7 +5,6 @@ bytes: 41271714
 duration: "57:19"
 guid: "A09B5396-3E7C-4F20-8CAB-8CB2642797BA"
 summary: "Första avsnittet av Kepskast!"
-category: kepskast
 ---
 
 * [Nippel](http://sv.wikipedia.org/wiki/Nippel) (Engelska: [Nipple](http://en.wikipedia.org/wiki/Nipple_(plumbing)))
