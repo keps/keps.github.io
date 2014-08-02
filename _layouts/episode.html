@@ -8,9 +8,12 @@ layout: default
             {{ page.title }}
         </a>
     </h1>
-    <p class="shownotes">
+    <div class="shownotes">
         {{ content }}
-    </p>
+    </div>
+    <audio controls preload="metadata">
+        <source src="{{ page.mp3 }}" type="audio/mpeg">
+    </audio>
     <p class="meta">
         <time datetime="{{ page.date | date: "%Y-%m-%d" }}">
             {{ page.date | date: "%Y-%m-%d" }}

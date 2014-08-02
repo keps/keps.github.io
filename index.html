@@ -3,16 +3,18 @@ layout: default
 ---
 
 {% for post in site.posts %}
-{% unless post.draft %}
 <article class="episode">
     <h1>
         <a href="{{ post.url }}" rel="bookmark" title="Permanent Link to {{ post.title }}">
             {{ post.title }}
         </a>
     </h1>
-    <p class="shownotes">
+    <div class="shownotes">
         {{ post.content }}
-    </p>
+    </div>
+    <audio controls preload="metadata">
+        <source src="{{ post.mp3 }}" type="audio/mpeg">
+    </audio>
     <p class="meta">
         <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
             {{ post.date | date: "%Y-%m-%d" }}
@@ -23,5 +25,4 @@ layout: default
         </a>
     </p>
 </article>
-{% endunless %}
 {% endfor %}
