@@ -17,9 +17,9 @@ keywords: "keps,musik,humor"
         <description>De tre medlemmarna i Keps talar med auktoritet om saker de inte vet någonting om.</description>
         <itunes:owner>
             <itunes:name>Pontus Granström</itunes:name>
-            <itunes:email>kepskollektivet@gmail.com</itunes:email>
+            <itunes:email>pontus@keps.cool</itunes:email>
         </itunes:owner>
-        <itunes:image href="{{ site.url }}/assets/kepskast-square.png" />
+        <itunes:image href="http://kepskast.s3.amazonaws.com/kepskast-square.png" />
         <itunes:category text="Comedy" />
         <itunes:explicit>no</itunes:explicit>
         
@@ -29,7 +29,7 @@ keywords: "keps,musik,humor"
             <description><![CDATA[{{ post.content }}]]></description>
             <itunes:author>{{ page.author }}</itunes:author>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
-            <itunes:image href="{{ site.url }}/assets/kepskast-square.png" />
+            <itunes:image href="http://kepskast.s3.amazonaws.com/kepskast-square.png" />
             <enclosure url="{{ post.mp3 }}" length="{{ post.bytes }}" type="audio/mpeg" />
             <guid isPermaLink="false">{{ post.guid }}</guid>
             <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
