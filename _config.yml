@@ -1,5 +1,6 @@
 url: http://kepskast.github.io
 email: kepskollektivet@gmail.com
+podcast_feed: http://kepskast.github.io/podcast.xml
 iTunes_url: "#iTunes"
 
 permalink: /:title
