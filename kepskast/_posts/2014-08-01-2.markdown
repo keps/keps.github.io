@@ -26,4 +26,4 @@ summary: "Pontus och Petter förklarar Facebook, diskuterar partnerskap, löser 
 * Coca Colas [_fantastiska_ reklam](https://www.youtube.com/watch?v=zlA9tXYxD8g)
 * Keps letar nytt domännamn (webbadress)
     * [Nya toppnivådomäner](https://iwantmyname.com/domains/new-gtld-domain-extensions)
-    * <http://keps.cool>
+    * [keps.cool](http://keps.cool)
