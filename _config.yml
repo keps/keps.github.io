@@ -1,6 +1,6 @@
-url: http://keps.cool
+url: http://www.keps.cool
 email: kepskast@keps.cool
-podcast_feed_url: http://keps.cool/kepskast/rss.xml
+podcast_feed_url: http://www.keps.cool/kepskast/rss.xml
 iTunes_url: "#iTunes"
 
 permalink: /:categories/:title
