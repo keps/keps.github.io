@@ -1,5 +1,4 @@
 ---
-layout: kepskast
 title: Påverka
 permalink: kepskast/påverka/
 ---

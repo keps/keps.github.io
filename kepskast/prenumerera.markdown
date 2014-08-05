@@ -1,5 +1,4 @@
 ---
-layout: kepskast
 title: Prenumerera
 permalink: kepskast/prenumerera/
 ---

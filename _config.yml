@@ -8,7 +8,12 @@ permalink: /:categories/:title
 defaults:
     -
         scope:
-            path: "kepskast"
+            path: kepskast
+        values:
+            layout: kepskast
+    -
+        scope:
+            path: kepskast
             type: post
         values:
             layout: episode
