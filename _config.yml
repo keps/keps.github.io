@@ -1,7 +1,7 @@
 url: http://www.keps.cool
 email: kepskast@keps.cool
 podcast_feed_url: http://www.keps.cool/kepskast/rss.xml
-iTunes_url: "#iTunes"
+iTunes_url: https://itunes.apple.com/se/podcast/kepskast/id906258816
 
 permalink: /:categories/:title
 
