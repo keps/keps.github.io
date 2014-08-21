@@ -1,0 +1,25 @@
+---
+title: '3: Meningen med livet'
+mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+3.mp3
+bytes: 35366577
+duration: "58:56"
+guid: "C266A262-B590-417D-BDF0-DDC189988F7C"
+summary: "Pontus och Petter gifter sig inte, ringer försäkringskassan, geocachar, pratar politik, jobbar inte, deppar, hånglar och tröstar sig med nya fåglar."
+---
+
+* Uppföljning giftermål (se [avsnitt 2]({% post_url 2014-08-02-2 %}))
+* Försäkringskassans telefonsystem
+    * [Guide till självbetjäning via telefon](http://www.forsakringskassan.se/wps/wcm/connect/0c3c8129-a35d-4eab-8d4e-4b9f2f4a4207/40330_guide_sjalvbetjaning_201209.pdf?MOD=AJPERES)
+* [Geocaching](http://en.wikipedia.org/wiki/Geocaching)
+* Petter vill prata [politik](http://en.wikipedia.org/wiki/Politics)
+	* [Behöver vi jobba?](http://feministisktinitiativ.se/politik/en-ny-syn-pa-arbete/)
+* [Är livet meningsfullt?](http://www.expressen.se/halsoliv/psykologi/ny-rapport-det-har-ar-meningen-med-livet/)
+	* Petter blir deppig
+	* Pratar vi nog om våra känslor? 
+	* Hur definierar vi [lycka](http://en.wikipedia.org/wiki/Happiness)?
+* [Hångla](http://sv.wikipedia.org/wiki/Hångel) med vem som helst på stan 
+* Pontus har [ny fågel](/images/Tre-sucks.jpg) (j-la materialist)
+    * [Lusfluga](http://en.wikipedia.org/wiki/Hippoboscidae)
+    * [Podcastfåglar](/images/podcast-birds.jpg)
+	* [Henom](http://sv.wikipedia.org/wiki/Henom) eller honem?
+* [IRL](http://www.urbandictionary.com/define.php?term=IRL)
