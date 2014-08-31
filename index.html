@@ -5,13 +5,39 @@
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0;url=/kepskast">
-        <script type="text/javascript">
-            window.location.href = "/kepskast"
-        </script>
-        <title>Page Redirection</title>
+        <style type="text/css" media="screen">
+            body {
+                width: 400px;
+                margin: 0 auto;
+                font-family: Futura, "Helvetica Neue", Helvetica, sans-serif;
+            }
+            h1 {
+                text-align: center;
+            }
+            a {
+                text-decoration: none;
+            }
+            img { 
+                width: 400px;
+            }
+        </style>
     </head>
     <body>
-        If you are not redirected automatically, <a href='/kepskast'>click here</a>
+        <h1 id="active_projects">Active Projects</h1>
+        <a href="/kepskast" title="Kepskast">
+            <img src="/assets/kepskast-banner.png" style="width: 486px;" />
+        </a>
+        <h1 id="finished_projects">Finished Projects</h1>
+        <iframe width="400" height="225" src="//www.youtube-nocookie.com/embed/1CRqNPb-XRI?rel=0" frameborder="0" allowfullscreen></iframe>
+        <a href="/megafon" title="Megafon">
+            <img src="/megafon/images/megafon800.png" />
+        </a>
+        <h1 id="abandoned_projects">Abandoned Projects</h1>
+        <a href="http://jontes.tumblr.com" title="Jonathans Äventyr">
+            <img src="/assets/jonathan-banner.png" />
+        </a>
+        <a href="http://altermundus.tumblr.com" title="Alter Mundus">
+            <img src="/assets/alter-mundus-banner.png" />
+        </a>
     </body>
 </html>
