@@ -1,0 +1,73 @@
+---
+title: '4: Landet Afrika'
+mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+4.mp3
+bytes: 91248849
+duration: "1:16:02"
+guid: "60FC0623-BF4E-4979-9A64-9419395B6797"
+summary: "Keps häver ur sig om Android, snor, teleportering, kvantfysik, superhjältar, EM i friidrott, invandring, språk, rasism, Danmark, ekonomi, moral och inte minst seriefigurer."
+---
+
+* [Logic](https://www.apple.com/se/logic-pro/) är programmet vi använder för att klippa Kepskast
+* Kalle har skaffat en [Fairphone](http://www.fairphone.com), en [Android](http://en.wikipedia.org/wiki/Android_(operating_system))-telefon.
+* [Snor](http://en.wikipedia.org/wiki/Dried_nasal_mucus)
+    * Petter har kanske [hösnuva](http://en.wikipedia.org/wiki/Allergic_rhinitis)
+    * Snyta sig
+        * Lena näsdukar
+        * I vattenkranen (?)
+    * Petters superkraft
+* Pontus har hittat många "kan vi klippa bort det sen" (finns på sidan för [avsnitt 1]({{ post_url 2014-07-31-1 }})).
+* Uppföljning teleportering (från [avsnitt 1]({{ post_url 2014-07-31-1 }})).
+    * Vattenbrist p.g.a. teleport
+    * Hur stor [solskyddsfaktor](http://sv.wikipedia.org/wiki/Solskyddsfaktor) behövs jättenära solen?
+    * [Strålningssköld](http://en.wikipedia.org/wiki/Radiation_protection)
+    * Hur upplevs teleportering?
+    * Etiken bakom teleport
+    * Felkorrigering vid teleport
+    * [The Prestige](http://en.wikipedia.org/wiki/The_Prestige_(film)) (nej, förresten)
+* [Identiska partiklar](http://en.wikipedia.org/wiki/Identical_particles)
+    * Pontus lyckas inte övertyga Petter
+* Kan vi inte prata om [superhjältar](http://en.wikipedia.org/wiki/Superhero)?
+    * Jo.
+    * Petter: snor
+    * Kalle: snabb
+    * Pontus: ???
+* EM-finalen i 1500 m 
+    * [Abeba Aregawi](http://en.wikipedia.org/wiki/Abeba_Aregawi)
+    * [Sifan Hassan](http://en.wikipedia.org/wiki/Sifan_Hassan)
+    * Alla från landet Afrika känner varandra
+    * [Resultatet](http://www.european-athletics.org/competitions/european-athletics-championships/2014/athletics/event/womens-1500m/phase=atw015100/index.html?v=20140815183205&intcmp=[#]-schline-result)
+* Invandrare i landet [Kebnekaise](http://en.wikipedia.org/wiki/Kebnekaise)
+    * Grannskapsnationer ([avsnitt 2]({{ post_url 2014-08-02-2 }}))
+    * Invandrarvatten
+    * Svenska fjällen är den enda sanna ursprungsbefolkningen
+    * Avlägsna resten av världen
+* Kepskast in English?
+    * Fördel: Öppet för folk från andra länder
+    * Nackdel: Öppet för folk från andra länder
+    * Vårt fantafstitka flow
+* Den ironiska rasismjargongen ovan
+    * Köksbordsrasism
+    * Podcastrasism
+* [Danmark](http://da.wikipedia.org/wiki/Danmark)
+    * [Venstre](http://www.venstre.dk)
+    * [Radikale Venstre](http://www.radikale.dk)
+    * [Politiska partier i Danmark](http://en.wikipedia.org/wiki/List_of_political_parties_in_Denmark)
+    * Sortera och särbehandla invandrare efter var de kommer ifrån
+    * Petter rånar Danmark
+* Ekonomi
+    * [Guldmyntfot](http://sv.wikipedia.org/wiki/Myntfot) ([Gold Standard](http://en.wikipedia.org/wiki/Gold_standard))
+    * Ska människorna tjäna ekonomin eller ekonomin tjäna människorna?
+* Man rår inte för det sammanhang man föds in i
+    * Svårt när man migrerar till ett annat sammanhang
+* Myten om massinvandring
+    * Över en million Syriska flyktingar i Libanon ([Amnestyrapport](http://www.amnesty.org/en/library/info/MDE18/001/2014/en))
+    * Vad skulle hände om faktisk massinvandring skedde?
+    * Att välja att tigga på gatan i Sverige
+* Seriefigurer
+    * [Tintin](http://en.wikipedia.org/wiki/The_Adventures_of_Tintin)
+    * [X-Men](http://en.wikipedia.org/wiki/X-Men)
+* Kepskastspråk igen
+    * Ska vi fråga lyssnarna?
+    * Näe… ni får [gnälla](mailto:{{ site.email }}?subject=Gnäll).
+    * Inslag på andra språk
+    * Nervös "alla är lika värda"-censur
