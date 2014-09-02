@@ -8,17 +8,17 @@
             {{ post.title }}
         </a>
     </h1>
-    <div class="shownotes">
-        {{ post.content }}
-    </div>
     <audio controls preload="metadata">
         <source src="{{ post.mp3 }}" type="audio/mpeg">
     </audio>
+    <div class="shownotes">
+        {{ post.content }}
+    </div>
     <p class="meta">
         <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
             {{ post.date | date: "%Y-%m-%d" }}
         </time>
-         | 
+         • 
         <a href="{{ post.mp3 }}" rel="bookmark" title="Ladda ner {{ post.title }}">
             Ladda ner MP3
         </a>

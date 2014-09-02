@@ -93,7 +93,12 @@ nav {
 }
 
 article {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
+    
+    audio {
+        margin: 10px 0;
+    }
+    
     .meta {
         text-align: center;
     }

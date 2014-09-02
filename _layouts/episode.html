@@ -8,17 +8,17 @@ layout: kepskast
             {{ page.title }}
         </a>
     </h1>
-    <div class="shownotes">
-        {{ content }}
-    </div>
     <audio controls preload="metadata">
         <source src="{{ page.mp3 }}" type="audio/mpeg">
     </audio>
+    <div class="shownotes">
+        {{ content }}
+    </div>
     <p class="meta">
         <time datetime="{{ page.date | date: "%Y-%m-%d" }}">
             {{ page.date | date: "%Y-%m-%d" }}
         </time>
-         | 
+        •
         <a href="{{ page.mp3 }}" rel="bookmark" title="Ladda ner {{ page.title }}">
             Ladda ner MP3
         </a>
