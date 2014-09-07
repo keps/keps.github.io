@@ -17,3 +17,6 @@ defaults:
             type: post
         values:
             layout: episode
+
+gems:
+    - jekyll-sitemap
