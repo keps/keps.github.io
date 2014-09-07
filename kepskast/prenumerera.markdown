@@ -19,16 +19,11 @@ Det går att prenumerera på Kepskast på flera olika sätt:
 
 ## Appar
 
-För att lägga till Kepskast i din podcastapp, pröva först att söka i appen. Om det inte går: kopiera adressen <{{ site.podcast_feed_url }}> och klistra in i appen. 
+För att lägga till Kepskast i din podcastapp, pröva först att söka i appen. Om det inte går: kopiera adressen <{{ site.podcast_feed_url }}> och klistra in i appen.
 
 ### iOS (iPhone)
 
-* Gratis
-    * [Overcast](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8) är enkel och vettig, vårt favoritgratisval. Tycker man om appen går det att betala för att låsa upp extra funktioner (värt enligt oss, men man klarar sig bra utan!)
-    * Apples [Podcasts](https://itunes.apple.com/en/app/podcasts/id525463029?mt=8) har en massa funktioner och är gratis, men är trög och opålitlig.
-
-* Kostar pengar
-    * [Castro](https://itunes.apple.com/us/app/castro-high-fidelity-podcasts/id723142770?mt=8) är snygg och minimalistisk. Funkar bäst med ett litet antal podcasts, då den saknar organisatoriska funktioner.
+* [Overcast](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8) är enkel och vettig, vårt favoritgratisval. Tycker man om appen går det att betala för att låsa upp extra funktioner (värt enligt oss, men man klarar sig bra utan!)
 
 ### Android
 
@@ -38,6 +33,5 @@ För att lägga till Kepskast i din podcastapp, pröva först att söka i appen.
 * Gratis
     * [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) verkar vara en vettig gratis podcastapp till Android (jag vet inte vad jag pratar om).
     * [BeyondPod](https://play.google.com/store/apps/details?id=mobi.beyondpod) rekommenderas av vår lyssnare Rolf (som vet vad han pratar om).
-    
 
 (psst! om du är en lyssnare som faktiskt använder Android ...  [hjälp!](mailto:{{ site.email }}?subject=Tips på bra podcastappar till Android))
