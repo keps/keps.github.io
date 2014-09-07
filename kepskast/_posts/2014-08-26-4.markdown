@@ -15,8 +15,8 @@ summary: "Keps häver ur sig om Android, snor, teleportering, kvantfysik, superh
         * Lena näsdukar
         * I vattenkranen (?)
     * Petters superkraft
-* Pontus har hittat många "kan vi klippa bort det sen" (finns på sidan för [avsnitt 1]({% post_url 2014-07-30-1 %})).
-* Uppföljning teleportering (från [avsnitt 1]({% post_url 2014-07-30-1 %})).
+* Pontus har hittat många "kan vi klippa bort det sen" (finns på sidan för [avsnitt 1]({{ site.url }}{% post_url 2014-07-30-1 %})).
+* Uppföljning teleportering (från [avsnitt 1]({{ site.url }}{% post_url 2014-07-30-1 %})).
     * Vattenbrist p.g.a. teleport
     * Hur stor [solskyddsfaktor](http://sv.wikipedia.org/wiki/Solskyddsfaktor) behövs jättenära solen?
     * [Strålningssköld](http://en.wikipedia.org/wiki/Radiation_protection)
@@ -37,7 +37,7 @@ summary: "Keps häver ur sig om Android, snor, teleportering, kvantfysik, superh
     * Alla från landet Afrika känner varandra
     * [Resultatet](http://www.european-athletics.org/competitions/european-athletics-championships/2014/athletics/event/womens-1500m/phase=atw015100/index.html?v=20140815183205&intcmp=[#]-schline-result)
 * Invandrare i landet [Kebnekaise](http://en.wikipedia.org/wiki/Kebnekaise)
-    * Grannskapsnationer ([avsnitt 2]({% post_url 2014-08-02-2 %}))
+    * Grannskapsnationer ([avsnitt 2]({{ site.url }}{% post_url 2014-08-02-2 %}))
     * Invandrarvatten
     * Svenska fjällen är den enda sanna ursprungsbefolkningen
     * Avlägsna resten av världen

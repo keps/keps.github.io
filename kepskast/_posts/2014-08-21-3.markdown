@@ -7,7 +7,7 @@ guid: "C266A262-B590-417D-BDF0-DDC189988F7C"
 summary: "Pontus och Petter gifter sig inte, ringer försäkringskassan, geocachar, pratar politik, jobbar inte, deppar, hånglar och tröstar sig med nya fåglar."
 ---
 
-* Uppföljning giftermål (se [avsnitt 2]({% post_url 2014-08-02-2 %}))
+* Uppföljning giftermål (se [avsnitt 2]({{ site.url }}{% post_url 2014-08-02-2 %}))
 * Försäkringskassans telefonsystem
     * [Guide till självbetjäning via telefon](http://www.forsakringskassan.se/wps/wcm/connect/0c3c8129-a35d-4eab-8d4e-4b9f2f4a4207/40330_guide_sjalvbetjaning_201209.pdf?MOD=AJPERES)
 * [Geocaching](http://en.wikipedia.org/wiki/Geocaching)
