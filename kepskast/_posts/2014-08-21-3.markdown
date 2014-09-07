@@ -18,8 +18,8 @@ summary: "Pontus och Petter gifter sig inte, ringer försäkringskassan, geocach
 	* Pratar vi nog om våra känslor? 
 	* Hur definierar vi [lycka](http://en.wikipedia.org/wiki/Happiness)?
 * [Hångla](http://sv.wikipedia.org/wiki/Hångel) med vem som helst på stan 
-* Pontus har [ny fågel](/images/Tre-sucks.jpg) (j-la materialist)
+* Pontus har [ny fågel]({{ site.url }}/images/Tre-sucks.jpg) (j-la materialist)
     * [Lusfluga](http://en.wikipedia.org/wiki/Hippoboscidae)
-    * [Podcastfåglar](/images/podcast-birds.jpg)
+    * [Podcastfåglar]({{ site.url }}/images/podcast-birds.jpg)
 	* [Henom](http://sv.wikipedia.org/wiki/Henom) eller honem?
 * [IRL](http://www.urbandictionary.com/define.php?term=IRL)
