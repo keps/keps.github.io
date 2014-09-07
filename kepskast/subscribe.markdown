@@ -23,7 +23,7 @@ To add Kepskast to your podcast app, first try searching in the app. If you can'
 
 ### iOS (iPhone)
 
-* [Overcast](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8) is simple, straightforward and free. In our experience _the_ podcast app for iOS (I even removed the other recommendations).
+* [Overcast](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8) is simple, straightforward and free. In our experience _the_ podcast app for iOS (I even _removed_ the other recommendations).
 
 ### Android
 

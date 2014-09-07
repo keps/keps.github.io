@@ -1,7 +1,7 @@
 ---
 layout: none
 author: "Karl Jonsson, Pontus Granström, Petter Rylén"
-keywords: "keps,musik,humor"
+keywords: "keps,music,humor"
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -9,20 +9,20 @@ keywords: "keps,musik,humor"
     <channel>
         <title>Kepskast</title>
         <link>{{ site.url }}/kepskast</link>
-        <language>sv</language>
+        <language>en</language>
         <copyright>&#xA9; 2014 Keps</copyright>
         <itunes:subtitle>kan vi klippa bort det sen</itunes:subtitle>
         <itunes:author>{{ page.author }}</itunes:author>
         <itunes:keywords>{{ page.keywords }}</itunes:keywords>
-        <itunes:summary>Keps kastar i glashus.</itunes:summary>
-        <description>De tre medlemmarna i Keps talar med auktoritet om saker de inte vet någonting om.</description>
+        <itunes:summary>Kepskast</itunes:summary>
+        <description>The three members of Keps basically making shit up and letting it fall down.</description>
         <itunes:owner>
             <itunes:name>Pontus Granström</itunes:name>
             <itunes:email>pontus@keps.cool</itunes:email>
         </itunes:owner>
         <itunes:image href="http://kepskast.s3.amazonaws.com/kepskast-square.png" />
         <itunes:category text="Comedy" />
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>yes</itunes:explicit>
         
         {% for post in site.categories.kepskast %}
         <item>
@@ -36,6 +36,7 @@ keywords: "keps,musik,humor"
             <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
             <itunes:duration>{{ post.duration }}</itunes:duration>
             <itunes:keywords>{{ page.keywords }}</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
         </item>
         {% endfor %}
     </channel>
