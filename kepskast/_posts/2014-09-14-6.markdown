@@ -1,0 +1,35 @@
+---
+title: '6: Trash Monopoly'
+mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+6.mp3
+bytes: 37276212
+duration: "31:04"
+guid: "FAF7B48B-780E-4446-8F73-672A75136554"
+summary: "Keps has no friends, finally takes out the trash, tells stories and fights over board games."
+---
+
+* Having friends (not)
+* Grow your cult with this one weird trick!
+* Pontus finally takes out the trash (it was starting to smell)
+     * This story began in [episode 1]({{ site.url }}{% post_url 2014-07-30-1 %})
+     * Petter and Kalle reacts
+     * [Dubbeldusch](http://www.familjeliv.se/forum/thread/51576537-hjalpa-min-nya-pojkvan-anvander-dubbeldusch)
+* Telling stories
+    * What is a true story?
+    * [A big fight breaks out](http://www.youtube.com/watch?v=CgeYMK8TPRI&amp;t=3m50s)
+* Fighting and board games
+    * Petter fought over [Settlers of Catan](http://www.catan.com)
+    * [Having fun while losing](http://en.wikipedia.org/wiki/Griefer)
+    * [Risk](http://en.wikipedia.org/wiki/Risk_(game))
+        * [Lux Delux](http://sillysoft.net/lux/) (Risk online)
+        * [Micro](http://en.wikipedia.org/wiki/Micromanagement_(gameplay)) is important in [StarCraft](http://us.battle.net/sc2/en/)
+    * [Monopoly](http://en.wikipedia.org/wiki/Monopoly)
+    * "Fia med knuff" a.k.a. [Mensch ärgere dich nicht](http://en.wikipedia.org/wiki/Mensch_ärgere_dich_nicht) (meaning "Man, don't get annoyed").
+    * [Alias](http://boardgamegeek.com/boardgame/3818/alias)
+    * [Twister](http://www.youtube.com/watch?v=CdDKG59bHAQ)
+    * [Chess](http://www.youtube.com/watch?v=anvRFJFUnRE&amp;t=1m02s)
+    * [Chess 2](http://www.sirlingames.com/products/chess-2-print-and-play)
+    * [Fan-made rules](http://gameofcyvasse.com "The Rules of Cyvasse") for Cyvasse, the game in [Game of Thrones](http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire).
+    * [A Game of Thrones: The Board Game](http://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition)
+    * [Pandemic](http://zmangames.com/product-details.php?id=1246), a cooperative game about fighting disease.
+    
+    

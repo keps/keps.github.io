@@ -7,7 +7,7 @@ guid: "C36DEFEA-BDB2-414D-B858-6B6DB6A7B233"
 summary: "Keps speak English for the first time, Pontus falls asleep, Petter wakes him up, then all three talk about computer games, parenting and feminism, including the SCUM Manifesto."
 ---
 * Kepskast in [English](https://www.youtube.com/watch?v=Xw2bTpyHGCE) (finally!)
-* Working for the man
+* Working for the man (or woman)
     * Pontus is teaching at [Chalmers](http://en.wikipedia.org/wiki/Chalmers_University_of_Technology).
     * Kalle is looking for a [job](http://en.wikipedia.org/wiki/Job).
     * Petter has never heard of working.
