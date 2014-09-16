@@ -1,5 +1,5 @@
 ---
-title: '6: Trash Monopoly'
+title: '6: Trash Risk'
 mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+6.mp3
 bytes: 37276212
 duration: "31:04"
