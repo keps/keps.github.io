@@ -1,5 +1,5 @@
 ---
-title: '7: They're Taking Our Pleasures Too!'
+title: "7: They're Taking Our Pleasures Too!"
 mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+7.mp3
 bytes: 31672947
 duration: "26:24"
