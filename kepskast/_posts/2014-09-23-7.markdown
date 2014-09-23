@@ -1,0 +1,25 @@
+---
+title: '7: They're Taking Our Pleasures Too!'
+mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+7.mp3
+bytes: 31672947
+duration: "26:24"
+guid: "10091F62-E5C0-49C6-BF95-9FE5ACF04E17"
+summary: "Keps quiz, let robots take over and talk about themselves. (Narcissists...)"
+---
+
+* Quiz match point
+    * [Bamboo](http://en.wikipedia.org/wiki/Bamboo)
+* Will robots take over our jobs?
+    * [Humans need not apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
+    * [Creative computers](http://en.wikipedia.org/wiki/Computational_creativity "Computational creativity - Wikipedia, the free encyclopedia")
+        * [Music](http://arstechnica.com/science/2009/09/virtual-composer-makes-beautiful-musicand-stirs-controversy/)
+        * [Books](http://readwrite.com/2013/01/15/why-write-your-own-book-when-an-algorithm-can-do-it-for-you)
+        * [Games](http://www.rockpapershotgun.com/2012/06/04/the-ai-that-designs-its-own-games/)
+        * [Painting](http://www.thepaintingfool.com)
+    * [Human-robot symbiosis](http://en.wikipedia.org/wiki/Transhumanism)
+* Meta-kepskast
+    * Evaluation
+    * [Uh, erm, yes, well, um, hmm](http://en.wikipedia.org/wiki/Speech_disfluency)
+    * Cut people off!
+    * Petter's going to [South Africa](http://en.wikipedia.org/wiki/South_Africa)
+    
