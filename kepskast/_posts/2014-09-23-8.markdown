@@ -3,7 +3,7 @@ title: "8: Iceland"
 mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+8.mp3
 bytes: 26592653
 duration: "22:10"
-guid: "10091F62-E5C0-49C6-BF95-9FE5ACF04E17"
+guid: "AF4156AC-BA37-414B-BEBD-1F367A9D0110"
 summary: "Random facts about Iceland read from Wikipedia, and worst fight in Kepskast history makes this cast a little … weird."
 ---
 
