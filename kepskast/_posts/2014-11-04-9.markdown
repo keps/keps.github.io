@@ -1,0 +1,21 @@
+---
+title: "9: Privilege Undone"
+mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+9.mp3
+bytes: 42355461
+duration: "35:18"
+guid: "65B0333A-E8E2-4A0A-83CB-C6E32D374FB0"
+summary: "Keps tries to undo their privilege. They succeed."
+---
+
+* We don’t know what we are doing (that's news?)
+* [Undoing Privilege](http://amazon.com/dp/1848130295), a book by Bob Pease
+* Word war between Pontus and Petter ([who really won?](mailto:{{ site.email }}?subject=Pontus/Petter won the ep 9))
+* Back to the privilege thing
+    * Class privileges
+    * Race privileges
+    * Keps privileges?
+* Epilogue: 
+    * Petter and Pontus clearing out some relational and behavioral issues
+    * Check out [keps.cool](http://keps.cool)! (oh, wait)
+    * Inventing some new words
+    * Scary ghost comes over to collect our souls
