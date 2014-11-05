@@ -38,23 +38,10 @@ summary: "Keps interview Petter Rylén, self-appointed hiker and narcissist."
     * Creative statement: Try to always approach things a new way
     * (Here Petter goes to [dopeytown](https://www.youtube.com/watch?v=yI1Wr-mKjT4&t=1m16s) for a while)
 * Petter: Advisor
-    * Jazz advice:
-        * Make sure to have fun
-        * Don't listen to anyone else; fuck 'em
-        * Do the opposite of what you're told
-        * Record yourself and listen to it
-        * Play around, explore; do not care about what it's like
-        * Work hard (if it's fun)
-    * Hiking advice:
-        * Have proper (but not too expensive) equipment
-        * Pack well and weigh it!
-        * Plan your food carefully
-    * Professorial advice:
-        * Be forgetful
-        * (Try to grow a beard if you want)
-    * Advice advice:
-        * Fuck it
-        * Fuck all advice
+    * Jazz advice
+    * Hiking advice
+    * Professorial advice
+    * Advice advice
 * Petter: Self-promoter
     * [Twitter](http://twitter.com/pletter)
     * [Facebook](https://www.facebook.com/petter.rylen)
