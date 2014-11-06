@@ -1,13 +1,13 @@
 ---
-title: "10: Fuck All Advice: Deep into the Woods with Petter Rylén"
+title: "10: Into the Woods with Petter Rylén"
 mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+10.mp3
-bytes: CHANGE ME
-duration: CHANGE ME
+bytes: 61548669
+duration: "51:17"
 guid: "CE17C6D7-F3AA-45B6-AD56-3C4326B38429"
 summary: "Keps interview Petter Rylén, self-appointed hiker and narcissist."
 ---
 
-* Petter: Self-appointed professor of practical creativity
+* Petter: [Self-appointed professor of practical creativity](http://dk.linkedin.com/pub/petter-rylén/85/602/779)
     * Petter forgot about this
     * <del>Stipends</del> Grants
 * Petter: Student
