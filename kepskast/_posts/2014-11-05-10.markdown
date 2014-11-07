@@ -11,7 +11,6 @@ summary: "Keps interview Petter Rylén, self-appointed hiker and narcissist."
     * Petter forgot about this
     * <del>Stipends</del> Grants
 * Petter: Student
-    * <del>Stipends</del> Grants
 * Petter: Relapsing jazz pianist
     * This year Petter will go back to being a jazz pianist
     * [The Original Trio](http://theoriginaltrio.com) is on a break
