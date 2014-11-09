@@ -1,0 +1,66 @@
+---
+title: "11: Until the End with Joakim Jalhed"
+mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+11.mp3
+bytes: 88857077
+duration: "1:14:03"
+guid: "6B181174-F4A0-41AD-B558-80B23A5DE1DA"
+summary: "Keps interview Joakim Jalhed about journalism, music, endings and Joakim answers fan questions."
+---
+
+* First contact?
+* Secret breakfast
+* Norwegian "lunch"
+* Nordic political mentalities
+    * Feminism in Sweden vs Denmark vs Norway
+* Joakim lives in Norway
+* Fan questions
+    * Joakim's favourite colour
+    * Joakim's spirit animal
+    * Who does people Joakim look up to?
+    * Joakim's desert island packing list
+    * Joakim's desert island guest list
+* Sticks
+    * Areas of use
+    * [Article about sticks](http://kulturimperiet.se/artikel/att-leka-med-pinnar/) by Joakim
+    * [John Cage](http://en.wikipedia.org/wiki/John_Cage) and stick music
+* Favourite beverages
+    * [White russian](http://www.wikihow.com/Make-a-White-Russian)
+    * [Drug](http://www.mat.se/butik/apelsindryck-kiviks-1500ml)
+* Journalism
+    * [Kulturimperiet](http://kulturimperiet.se/) (Empire of Culture), where Joakim is co-editor
+    * Interviewing techniques
+    * Feedback on Kepskast's journalistic prowess
+* Stuff that keeps on going even though it shouldn't
+* New music
+    * Fashion in music
+    * Does music evolve in tandem with social structure?
+    * [Musical notation](http://en.wikipedia.org/wiki/Musical_notation)
+    * Are composers "inventors" of new music?
+    * Keps
+    * Johannes Kreidler's [_Compression Sound Art_](http://www.kreidler-net.de/english/works/csa.htm)
+* Jazz music
+    * [Petter's relapse]({{ site.url }}{% post_url 2014-11-06-10 %})
+    * The social role of jazz
+    * Has jazz become too academic?
+* English
+* References
+    * [Star Trek](https://www.youtube.com/watch?v=X6oUz1v17Uo)
+    * [HHGttG](http://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-hitchhikers-guide-to-the-galaxy-game-30th-anniversary-edition)
+    * [Monty Python](https://www.youtube.com/watch?v=FGK8IC-bGnU)
+* Jazz name-dropping
+    * [Thelonius monk](http://youtu.be/FRUWtrgTpcs)
+    * [John Coltrane](http://youtu.be/clC6cgoh1sU)
+    * [Hannah Montana](https://www.youtube.com/watch?v=My2FRPA3Gf8)
+    * [Joey Calderazzo and Jeff "Tain" Watts](http://youtu.be/E8LQoV-uUW0) visited [Petter's school](https://www.rmc.dk/en/)
+    * [Free jazz](https://www.youtube.com/watch?v=MgD2lM-cCcU) vs [real jazz](https://www.youtube.com/watch?v=1jDDtUFUgbM)
+* Knowing when things should end
+    * Pauline Oliveros' [Sonic Meditations](http://www.scribd.com/doc/110367386/Sonic-Meditation-0002-Pauline-Oliveros)
+    * Kepskast
+* Mushrooms
+* Joakim's soundclouds
+    * [Mort Rouge](https://soundcloud.com/mort-rouge)
+    * [Cynthia Forlorne](https://soundcloud.com/cynthiaforlorne)
+* Sound FX
+    * [Convolution](http://en.wikipedia.org/wiki/Convolution)
+    * [Pitch Shift](http://en.wikipedia.org/wiki/Audio_time-scale/pitch_modification)
+    * [Vocoder](https://www.youtube.com/watch?v=-hqvvNcvenU)
