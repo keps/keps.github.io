@@ -1,0 +1,29 @@
+---
+title: "15: Swipe to the Left"
+mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+15.mp3
+bytes: 92477126
+duration: "01:17:04"
+guid: 903ADE54-9FE4-4629-B9F2-6EFA07CCB739
+summary: "Keps learn about Petter's weekend project."
+---
+
+* What have we been up to?
+    * Pontus: [Working](http://hackertyper.net)
+    * Kalle: [The Hunger Games: Mockingjay – Part 1](http://www.imdb.com/title/tt1951265/) (gotta love them Hollywood titles)
+    * Petter: [Eating more slowly](https://www.youtube.com/watch?v=2Syd_BUbl5A)
+* The rest of the episode is a special surprise/a study in narcissicm/bullshit depending on how you look at it
+    * [Here][1] [are][2] [some][3] [pictures][4] [of][5] [Petter's][6] [thing][7].
+    * Actually, just after we recorded this episode I listened to [this](http://mollyrocket.com/jacs/jacs_0002_0039.html). I think that podcast is Kepskast's (vastly more entertaining) twin sister.
+* Pontus's app ideas
+    * Recommendation app → [Stamped](http://mashable.com/2011/11/25/stamped-iphone-recommendation-app/)
+    * Nearby people → [Highlight](http://highlig.ht) (and a dozen others)
+* [sex.sex.sex](http://sex.sex.sex)
+* [Her](http://dictionary.reference.com/browse/her)
+
+[1]: /images/Tinderpics/camera-lava-lamp.jpg
+[2]: /images/Tinderpics/cool-hero.jpg
+[3]: /images/Tinderpics/flower-hero.jpg
+[4]: /images/Tinderpics/happy-glasses-guy.jpg
+[5]: /images/Tinderpics/speaker-hero-text.jpg
+[6]: /images/Tinderpics/child-hero.jpg
+[7]: /images/Tinderpics/with-Anton.jpg
