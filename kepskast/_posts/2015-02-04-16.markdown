@@ -1,0 +1,20 @@
+---
+title: "16: Fairfans"
+mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+16.mp3
+bytes: 64499983
+duration: "53:45"
+guid: 027E2C33-768B-4FBC-B5EF-7A27192B7E9D
+summary: "Keps respond to fan email."
+---
+
+* Fan email
+    * Cryptic email from <kepsfan3@gmail.com> (bounty: $5, unless you are kepsfan3, then you get nothing, obvs)
+    * Email from Rolf about phone and music reviews
+* [Fairphone](http://www.fairphone.com)
+    * [Conflict minerals](http://en.wikipedia.org/wiki/Conflict_resource#Conflict_minerals)
+    * Documentary [Blood in the Mobile](http://bloodinthemobile.org) (don't know if it's any good)
+    * [Android versions](http://en.wikipedia.org/wiki/Android_version_history#Version_history_by_API_level)
+* Materials
+    * [Silicon](http://en.wikipedia.org/wiki/Silicon)
+    * [Aluminium](http://en.wikipedia.org/wiki/Aluminium)
+    * [Graphene](http://en.wikipedia.org/wiki/Graphene)
