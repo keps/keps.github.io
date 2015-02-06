@@ -1,0 +1,16 @@
+---
+title: '17: Like liking "like"-like liking'
+mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+17.mp3
+bytes: 85470040
+duration: "01:11:13"
+guid: 6424A6C3-E88F-4608-8AF6-5A1D8EE568C1
+summary: "Petter and Pontus discuss revolutionary ways of thinking extraordinarily creatively."
+---
+
+* [Polish dubbing](https://www.youtube.com/watch?v=q6JGCLcraxw)
+* Uninteresting stuff
+    * [Alcazar](http://www.theincrediblecompany.com/alcazar-1)
+    * Bluetooth speakers (Petter has [this one](http://www.ultimateears.com/en-us/mini-boom))
+* B (see [last episode]({{ site.url }}{% post_url 2015-02-04-16 %}))
+* Culture, like "like" culture
+* Big ideas and [delusions of grandeur](http://chrishecker.com/Kurt_Gödel_is_Laughing_His_Ass_Off_Right_Now)
