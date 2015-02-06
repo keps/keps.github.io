@@ -12,4 +12,5 @@ summary: "KEPS RECORDED ANOTHER PODCAST EPISODE. AND THEY SAW THAT IT WAS GOOD."
   * I'm his little brother
   * Me too!
 * Here's a [link](http://example.com).
+  * Here's a link to a [previous episode]({{ site.url }}{% post_url 2014-08-02-2 %}))
 * I want to _emphasize_ how **bold** you are for reading this.

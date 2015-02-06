@@ -20,10 +20,10 @@ summary: "Keps learn about Petter's weekend project."
 * [sex.sex.sex](http://sex.sex.sex)
 * [Her](http://dictionary.reference.com/browse/her)
 
-[1]: /images/Tinderpics/camera-lava-lamp.jpg
-[2]: /images/Tinderpics/cool-hero.jpg
-[3]: /images/Tinderpics/flower-hero.jpg
-[4]: /images/Tinderpics/happy-glasses-guy.jpg
-[5]: /images/Tinderpics/speaker-hero-text.jpg
-[6]: /images/Tinderpics/child-hero.jpg
-[7]: /images/Tinderpics/with-Anton.jpg
+[1]: {{ site.url }}/images/Tinderpics/camera-lava-lamp.jpg
+[2]: {{ site.url }}/images/Tinderpics/cool-hero.jpg
+[3]: {{ site.url }}/images/Tinderpics/flower-hero.jpg
+[4]: {{ site.url }}/images/Tinderpics/happy-glasses-guy.jpg
+[5]: {{ site.url }}/images/Tinderpics/speaker-hero-text.jpg
+[6]: {{ site.url }}/images/Tinderpics/child-hero.jpg
+[7]: {{ site.url }}/images/Tinderpics/with-Anton.jpg
