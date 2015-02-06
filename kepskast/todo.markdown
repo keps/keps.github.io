@@ -1,4 +1,5 @@
 ---
 ---
 
-* Site in English?
+* Fix iPhone layout
+* Pagination

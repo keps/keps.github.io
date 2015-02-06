@@ -110,10 +110,8 @@ footer {
     }
 }
 
-
-
 @media (max-width: 500px) {
-    header, footer {
+    header, footer, #content {
         overflow: hidden;
     }
 }
