@@ -1,0 +1,24 @@
+---
+title: "18: Petter's Soliloquy"
+mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+18.mp3
+bytes: "111534498"
+duration: "01:32:57"
+guid: EE914EDD-0F56-4ABB-A748-6FAB8654A667
+summary: "Petter talks about himself. Kalle and Pontus make a few interjections."
+---
+
+* Pontus tried to talk about songwriting [last episode]({{ site.url }}{% post_url 2015-02-06-17 %})
+* Petter's [_How to shave your chest_](https://www.youtube.com/watch?v=ND3PcCFfgm4)
+    * The botched video on [Right This Minute](http://www.rightthisminute.com/video/rtmtv-manscaping-ideas-we-dont-recommend)
+* Pontus and Petter's venerable blog ([Swedish](http://popblogg.wordpress.com)) ([English](https://translate.google.com/translate?sl=auto&amp;tl=en&amp;js=y&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;u=https%3A%2F%2Fpopblogg.wordpress.com&amp;edit-text=&amp;act=url))
+* Zero views
+    * [Article](http://gizmodo.com/the-sad-weird-world-of-unseen-youtube-videos-1645888775) about unwatched videos on the internet
+    * [Petit Tube](http://www.petittube.com), where you get a stream of unwatched youtube videos
+* Attention Socialism
+* Ticket control
+* Pontus' childhood dream was stolen by [this guy](https://www.youtube.com/watch?v=CACAmH4r1fw)
+* Songwriting
+    * Petter's [Tinder love songs](https://www.youtube.com/channel/UC9pDg3pk_kC1QwYTJsnmh1w/videos)
+    * Musical superpowers
+* Examples
+* Kalle's job at [SIBA](http://www.siba.se) ([Swedish International Development Cooperation Agency](http://www.sida.se/english/))
