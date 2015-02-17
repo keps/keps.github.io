@@ -1,7 +1,7 @@
 ---
 title: "18: Petter's Soliloquy"
 mp3: http://s3-eu-west-1.amazonaws.com/kepskast/Kepskast+18.mp3
-bytes: "111534498"
+bytes: 111534498
 duration: "01:32:57"
 guid: EE914EDD-0F56-4ABB-A748-6FAB8654A667
 summary: "Petter talks about himself. Kalle and Pontus make a few interjections."
